@@ -1,12 +1,5 @@
 # Arduino-RN42
 ArduinoとRN42を２台使ったArduino同士のBluetooth通信の方法
-RN42を使用したArduino同士のBluetooth通信について、ハードウェアの準備からソフトウェアの設定、同期制御のコツまでをまとめました。
-
----
-
-# ArduinoとRN42を2台使ったBluetooth通信の実装ガイド
-
-Arduino 2台をBluetooth（RN42）で接続し、1対1で双方向通信および動作同期を行うための全工程を解説します。
 
 ---
 
